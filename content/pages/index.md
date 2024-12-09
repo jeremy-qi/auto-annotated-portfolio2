@@ -19,7 +19,9 @@ sections:
     subtitle: >-
       Hello. My name is Jeremy Q. and I'm a seventh grader who is currently
       attending Flintridge Preparatory School. I enjoy doing robotics, learning
-      math, reading, and fencing in my free time.
+      math, reading, and fencing in my free time. I have had many acheivments in
+      fencing, with the most notable ones being earning a total of 10 medals and
+      finishing at ranked 13th in the US.
     styles:
       self:
         height: auto
