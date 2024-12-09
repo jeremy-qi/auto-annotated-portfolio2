@@ -21,7 +21,8 @@ sections:
       attending Flintridge Preparatory School. I enjoy doing robotics, learning
       math, reading, and fencing in my free time. I have had many achievements
       in fencing, with the most notable ones being earning a total of 10 medals
-      and finishing at ranked 13th in the US.
+      and finishing at ranked 13th in the US. I was also the captain of the VEX
+      IQ robotics team 296B in the season of 2023-2024.
     styles:
       self:
         height: auto
