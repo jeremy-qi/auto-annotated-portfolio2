@@ -18,7 +18,7 @@ sections:
       impressive titles and buzz words.
     subtitle: >-
       Hello. My name is Jeremy Q. and I'm a seventh grader who is currently
-      attending Flintridge Prepar
+      attending Flintridge Preparator
     styles:
       self:
         height: auto
