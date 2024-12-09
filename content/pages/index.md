@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Hiiiiiiiiiiiiiii
     subtitle: >-
       Hello. My name is Jeremy Q. and I'm a seventh grader who is currently
       attending Flintridge Preparatory School. I enjoy doing robotics, learning
