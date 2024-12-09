@@ -22,7 +22,9 @@ sections:
       math, reading, and fencing in my free time. I have had many achievements
       in fencing, with the most notable ones being earning a total of 10 medals
       and finishing at ranked 13th in the US. I was also the captain of the VEX
-      IQ robotics team 296B in the season of 2023-2024.
+      IQ robotics team 296B in the season of 2023-2024. We have earned multiple
+      awards throughout that season, including earning 2nd place at the US
+      nationals competition.
     styles:
       self:
         height: auto
