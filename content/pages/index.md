@@ -18,7 +18,8 @@ sections:
       impressive titles and buzz words.
     subtitle: >-
       Hello. My name is Jeremy Q. and I'm a seventh grader who is currently
-      attending Flintridge Preparatory School.
+      attending Flintridge Preparatory School. I enjoy doing robotics, learning
+      math, reading, and fencing in my free time.
     styles:
       self:
         height: auto
